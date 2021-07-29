@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+}
+/* *{
+    border: solid;
+}
+*/
+.header{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Icons{
+    display: flex;
+    justify-content: flex-end;
+}
+.siteDescription{
+    text-align: center;
+}
